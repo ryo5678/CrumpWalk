@@ -289,7 +289,7 @@
 289. CMD_Brownie (64) 
 290. Soltaru (63) 
 291. PartyDip (63) 
-292. LogicWeasel (62) 
+292. LogicWeasel (63) 
 293. NerdS0xx (61) 
 294. Psunamii (61) 
 295. Cosbert (61) 
